@@ -1,6 +1,5 @@
 # nyctaxi
-Predictive models of taxi fare tipping in New York City
-Project conducted as part of Google Advanced Data Analytics Certification by Google on Coursera
+Predictive models of taxi fare tipping in New York City. This project was originally conducted as part of the Google Advanced Data Analytics Certification course by Google on Coursera.
 
 This project was initially conducted using Jupyter Notebooks as part of the Google Advanced Data Analytics Certification curriculum, and is a copy of that notebook incorporating my own personal work.
 
